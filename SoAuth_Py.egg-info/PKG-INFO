@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: SoAuth-Py
+Version: 1.0.0
+Summary: Flask middleware for SoAuth
+Home-page: https://github.com/sojs-coder/SoAuth-Py
+Author: Your Name
+Author-email: sojs_coder@protonmail.com
+License: ISC

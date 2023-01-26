@@ -1,0 +1,9 @@
+pyproject.toml
+setup.py
+SoAuth.egg-info/PKG-INFO
+SoAuth.egg-info/SOURCES.txt
+SoAuth.egg-info/dependency_links.txt
+SoAuth.egg-info/not-zip-safe
+SoAuth.egg-info/requires.txt
+SoAuth.egg-info/top_level.txt
+soauth/main.py

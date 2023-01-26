@@ -1,11 +1,11 @@
 from setuptools import setup
 
 setup(
-    name='soauth',
+    name='SoAuth',
     version='1.0.0',
     description='Flask middleware for SoAuth',
     url='https://github.com/sojs-coder/SoAuth-Py',
-    author='Your Name',
+    author='SoJS',
     author_email='sojs_coder@protonmail.com',
     license='ISC',
     packages=['soauth'],
