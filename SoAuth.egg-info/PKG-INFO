@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: SoAuth
-Version: 1.0.2
+Version: 1.0.3
 Summary: Flask middleware for SoAuth
 Home-page: https://github.com/sojs-coder/SoAuth-Py
 Author: SoJS

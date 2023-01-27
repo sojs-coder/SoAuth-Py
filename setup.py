@@ -3,7 +3,7 @@ long_description = open("README.md").read()
 
 setup(
     name='SoAuth',
-    version='1.0.2',
+    version='1.0.3',
     description='Flask middleware for SoAuth',
     url='https://github.com/sojs-coder/SoAuth-Py',
     author='SoJS',

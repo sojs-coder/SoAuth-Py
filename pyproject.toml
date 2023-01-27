@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "python-template"
-version = "0.1.0"
+name = "SoAuth Py"
+version = "1.0.3"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["SoJS <sojs_coder@protonmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.10.0,<3.11"
